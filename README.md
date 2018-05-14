@@ -1,6 +1,6 @@
 # SapientGamesArena
 
-##Sapient Experience Technology (UI) Hiring Challenge.
+## Sapient Experience Technology (UI) Hiring Challenge.
 
 #
 ![Home](https://raw.githubusercontent.com/Deepak5j/SapientGamesArena/master/Screenshots/1Home.PNG)
