@@ -10,6 +10,7 @@ function loadData() {
                   var dataToStore = JSON.stringify(myJson); 
                   localStorage.setItem('items', dataToStore);               
                   dataStoredSuccessful = 1;
+                  alert("Data loaded to localStorage successfully");
             } else {
                   alert("Your browser does not support Web Storage.");
 
