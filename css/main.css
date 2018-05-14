@@ -1,0 +1,47 @@
+body {
+    padding: 0;
+    margin: 0;
+    background-color: black;
+}
+header {
+    background-color: black;
+    height: 120px;
+    color: aqua;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+nav {
+    background-color: #333;
+}
+
+.main-container {
+    background-color: #505;
+    color: aqua;
+    height: 100%;
+    padding-top: 100px;
+    padding-bottom: 100px;
+    
+}
+footer {
+    background-color: black;
+    height: 80px;
+    padding-top: 10px;
+}
+table, th, td {
+    color: aqua;
+    table-layout: fixed;
+    word-wrap: break-word;
+ }
+ th {
+     background-color: #303;
+ }
+button:hover {
+    background-color: aqua;
+} 
+input:hover {
+    background-color: aqua;
+}
+a:hover {
+    background-color: aqua;
+    color: #000;
+}
